@@ -1,4 +1,4 @@
-# Pixel_Color_Detection_Manupulation
+# Pixel_Color_Detection_Manipulation
 The scripted in IPython Notebook provided a OpenCV2 based color detection and manupulation codes.
 
 Say we would like to replace all WHITE pixels in the image to RED:
